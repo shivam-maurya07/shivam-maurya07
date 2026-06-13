@@ -7,13 +7,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shivam-maurya07"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:shivamvision07@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:shivam-maurya07@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/shivam-maurya07"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=shivam-maurya07&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p> -->
+</p>
 
 ---
 
@@ -60,16 +60,19 @@
 
 ## 🔥 My Stats:
 
+<!-- Shows only commits & contributions — no rank/grade -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivam-maurya07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="shivam's github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shivam-maurya07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=stars,prs,issues,contribs&hide_rank=true" alt="shivam's github stats" />
 </p>
 
+<!-- Streak shows total contributions & current streak — grade is not shown here -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivam-maurya07&theme=tokyonight" alt="shivam's streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivam-maurya07&theme=tokyonight&hide_longest_streak=true" alt="shivam's streak" />
 </p>
 
+<!-- Top languages — visual and neutral, no grades -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam-maurya07&layout=compact&theme=tokyonight" alt="top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam-maurya07&layout=compact&theme=tokyonight&hide=jupyter%20notebook" alt="top languages" />
 </p>
 
 ---
