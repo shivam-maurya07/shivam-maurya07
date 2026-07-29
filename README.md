@@ -58,23 +58,25 @@
 
 ---
 
-## 🔥 My Stats:
+## 🔥 My Stats
 
-<!-- Shows only commits & contributions — no rank/grade -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivam-maurya07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=stars,prs,issues,contribs&hide_rank=true" alt="shivam's github stats" />
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=shivam-maurya07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=stars,prs,issues&hide_rank=true"
+    height="170"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=shivam-maurya07&theme=tokyonight"
+    height="170"
+  />
 </p>
 
-<!-- Streak shows total contributions & current streak — grade is not shown here -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivam-maurya07&theme=tokyonight&hide_longest_streak=true" alt="shivam's streak" />
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shivam-maurya07&layout=compact&theme=tokyonight&hide=jupyter%20notebook"
+    height="170"
+  />
 </p>
-
-<!-- Top languages — visual and neutral, no grades -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam-maurya07&layout=compact&theme=tokyonight&hide=jupyter%20notebook" alt="top languages" />
-</p>
-
 ---
 
 <p align="center">
