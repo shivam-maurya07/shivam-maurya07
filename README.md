@@ -62,7 +62,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=shivam-maurya07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=stars,prs,issues&hide_rank=true"
+    src="https://github-readme-stats.vercel.app/api?username=shivam-maurya07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=stars,prs,issues&hide_rank=true"
     height="170"
   />
   <img
@@ -73,7 +73,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shivam-maurya07&layout=compact&theme=tokyonight&hide=jupyter%20notebook"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam-maurya07&layout=compact&theme=tokyonight&hide=jupyter%20notebook"
     height="170"
   />
 </p>
