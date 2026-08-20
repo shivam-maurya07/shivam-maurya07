@@ -60,27 +60,25 @@
 
 ---
 
+---
+
 ## 🔥 My Stats
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=shivam-maurya07&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    src="https://github-readme-stats.vercel.app/api?username=shivam-maurya07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=stars,prs,issues&hide_rank=true"
     height="170"
-    alt="GitHub Stats"
   />
-  
   <img
-    src="https://streak-stats.demolab.com?user=shivam-maurya07&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com?user=shivam-maurya07&theme=tokyonight"
     height="170"
-    alt="GitHub Streak"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam-maurya07&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam-maurya07&layout=compact&theme=tokyonight&hide=jupyter%20notebook"
     height="170"
-    alt="Top Languages"
   />
 </p>
 
